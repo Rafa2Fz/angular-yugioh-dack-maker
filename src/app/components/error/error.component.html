@@ -1,0 +1,9 @@
+<div id="error" *ngIf="showError">
+  <div id="button-error">
+    <img src="assets/cancel.png" (click)="handleErrorClick()" width="55" height="55" alt="">
+  </div>
+  <div id="image-error">
+    <img src="assets/errorImage.jpg" alt="Error image"  width="600" height="400">
+    <p id="description">{{errorMessage}}</p>
+  </div>
+</div>
