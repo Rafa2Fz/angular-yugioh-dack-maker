@@ -1,6 +1,9 @@
-# AngularYugiohDeckMaker
-
+<div align="center">
+# Angular Yugioh Deck Maker
+<img src="https://github.com/Rafa2Fz/angular-yugioh-dack-maker/blob/main/src/assets/preview.gif" alt="preview">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
+</div>
+
 
 ## Development server
 
